@@ -166,3 +166,6 @@ print("\nLos Países que importan aprox. el 80% son: \n")
 for i in range(0,10):
      print (str(i+1) +  ". " + porcentajes_imp[i][0] + ", con " + str(porcentajes_imp[i][2]) + " operaciones")
 
+
+
+
